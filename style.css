@@ -1,0 +1,39 @@
+.onlinebiznes {
+  width: 500px;
+  height: 300px;
+  box-sizing: border-box;
+  background-image: url(/images/grafika.jpg);
+}
+
+.sec1 {
+  font-family: Source Sans Pro;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 33px;
+  line-height: 46px;
+  color: #ffffff;
+  text-align: center;
+  border: 1px solid black;
+  opacity: 0.9;
+}
+
+.sec2 {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 29px;
+  text-align: center;
+  color: #ffffff;
+  opacity: 0.8;
+}
+
+.services {
+  border: none;
+  width: 100px;
+  height: 40px;
+  border-radius: 3px;
+  background: #0d90c2;
+  color: #ffffff;
+  margin-left: 100px;
+}
